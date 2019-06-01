@@ -1,8 +1,8 @@
-TOPICS COVER:
-Variable
-Class
-Function
-Datatype
-Constructor
-SQl
+IN THIS PROJECT TOPICS COVERED ARE:-
+Variable,
+Class,
+Function,
+Datatype,
+Constructor,
+SQl,
 Loop
