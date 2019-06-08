@@ -1,5 +1,5 @@
 Student-Management-System-PYTHON-GUI-tkinter.-
-This repository contains Student Management System.
+.This repository contains Student Management System.
 
 1. It is made in PYTHON Language.
 2. This program imports tkinter and sqlite3.
