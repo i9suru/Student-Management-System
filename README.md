@@ -14,3 +14,8 @@ Datatype,
 Constructor,
 SQl,
 Loop
+### output
+![alt text](https://github.com/i9suru/Student-Management-System/blob/master/Stu_managSys.PNG)
+![alt text](https://github.com/i9suru/Student-Management-System/blob/master/Stu_managSys1.PNG)
+![alt text](https://github.com/i9suru/Student-Management-System/blob/master/Stu_managSys2.PNG)
+![alt text](https://github.com/i9suru/Student-Management-System/blob/master/Stu_managSys3.PNG)
